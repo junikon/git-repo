@@ -1,4 +1,4 @@
-print ("Hello world")
-print ("Hello everybody")
-print ("HiHiHi")
-print ("Say anything")
+print ("Hello world;")
+print ("Hello everybody;")
+print ("HiHiHi;")
+print ("Say anything;")
